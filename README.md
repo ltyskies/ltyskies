@@ -9,3 +9,9 @@ I'm always on the way.
 
 ### Skills
 Java, JavaScript, Python, Golang, React, Node.js
+
+<b>My GitHub Stats</b>
+
+![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltyskies)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltyskies&layout=compact&theme=buefy&hide_border=true&langs_count=100)
