@@ -15,3 +15,6 @@ Java, JavaScript, Python, Golang, React, Node.js
 ![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ltyskies)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltyskies&layout=compact&theme=buefy&hide_border=true&langs_count=100)
+
+#### Leetcode
+![lc](https://leetcard.jacoblin.cool/daz2ling-swirlesovc?ext=activity&site=cn)
